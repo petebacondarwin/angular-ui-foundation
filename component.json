@@ -1,0 +1,8 @@
+{
+  "name": "foundation",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular-bootstrap": "~0.2.0",
+    "foundation": "~4.0.9"
+  }
+}
